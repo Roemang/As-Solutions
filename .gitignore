@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+*.log
+
+# Beheer: wachtwoord en verwijderde fotos niet op GitHub zetten
+admin.config.json
+prullenbak/
+data/*.tmp

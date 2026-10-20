@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Beheer – AS Solutions</title>
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="icon" href="assets/img/emblem.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css?v=1792493517">
+  <link rel="stylesheet" href="assets/css/admin.css?v=1792493517">
+</head>
+<body class="admin">
+
+  <!-- ===================== INLOGGEN ===================== -->
+  <section class="admin-login" id="login" hidden>
+    <form class="admin-login__card" id="login-form">
+      <img src="assets/img/logo.svg" alt="AS Solutions" class="admin-login__logo">
+      <h1>Beheer</h1>
+      <p>Log in om de projectfoto's op de website aan te passen.</p>
+      <div class="field field--6">
+        <label for="wachtwoord">Wachtwoord</label>
+        <input id="wachtwoord" type="password" autocomplete="current-password" required>
+      </div>
+      <button class="btn" type="submit">Inloggen</button>
+      <p class="admin-error" id="login-error" role="alert"></p>
+      <a class="admin-back" href="index.html">← Terug naar de website</a>
+    </form>
+  </section>
+
+  <!-- ===================== BEHEER ===================== -->
+  <div id="app" hidden>
+    <header class="admin-bar">
+      <div class="container admin-bar__inner">
+        <img src="assets/img/logo-zonder-tagline.svg" alt="AS Solutions" class="admin-bar__logo">
+        <div class="admin-bar__actions">
+          <a class="btn btn--ghost" href="index.html#projecten" target="_blank" rel="noopener">Website bekijken</a>
+          <button class="btn" id="logout" type="button">Uitloggen</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="container admin-main">
+      <div class="admin-head">
+        <div>
+          <h1>Projectfoto's</h1>
+          <p>Voeg foto's toe, pas de titel aan, vervang of verwijder foto's en bepaal de volgorde. Wijzigingen staan direct op de website.</p>
+        </div>
+        <span class="admin-count" id="count"></span>
+      </div>
+
+      <!-- Uploaden -->
+      <section class="admin-upload">
+        <label class="dropzone" id="dropzone" for="upload">
+          <input id="upload" type="file" accept="image/*" multiple>
+          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#2f6aa8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M17 8l-5-5-5 5M12 3v12"/></svg>
+          <div><strong>Foto's toevoegen</strong>: klik hier of sleep foto's in dit vak</div>
+          <small>Je kunt meerdere foto's tegelijk kiezen. Ze worden automatisch verkleind voor de website.</small>
+        </label>
+        <div class="admin-upload__options">
+          <label for="upload-titel">Titel voor de nieuwe foto's (optioneel)</label>
+          <input id="upload-titel" placeholder="bv. Badkamer renovatie Almere">
+        </div>
+        <ul class="admin-progress" id="progress"></ul>
+      </section>
+
+      <p class="admin-hint">Tip: sleep de foto's om de volgorde te veranderen, of gebruik de pijltjes. De eerste 12 foto's zijn direct zichtbaar op de website.</p>
+
+      <!-- Overzicht -->
+      <ol class="admin-grid" id="grid"></ol>
+    </main>
+  </div>
+
+  <div class="admin-toast" id="toast" role="status" aria-live="polite"></div>
+  <input type="file" id="replace-input" accept="image/*" hidden>
+
+  <script src="assets/js/admin.js?v=1792493517"></script>
+</body>
+</html>

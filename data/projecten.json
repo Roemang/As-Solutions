@@ -1,0 +1,338 @@
+[
+  {
+    "id": "badkamer-led-spiegel",
+    "type": "foto",
+    "titel": "Badkamer LED spiegel",
+    "groot": "assets/img/projecten/badkamer-led-spiegel.webp",
+    "klein": "assets/img/projecten/badkamer-led-spiegel-klein.webp"
+  },
+  {
+    "id": "tv-wand-sfeerhaard",
+    "type": "foto",
+    "titel": "TV-wand sfeerhaard",
+    "groot": "assets/img/projecten/tv-wand-sfeerhaard.webp",
+    "klein": "assets/img/projecten/tv-wand-sfeerhaard-klein.webp"
+  },
+  {
+    "id": "tv-wand-led",
+    "type": "video",
+    "titel": "TV-wand met LED-verlichting en sfeerhaard",
+    "groot": "assets/video/tv-wand-led.mp4",
+    "klein": "assets/video/tv-wand-led-poster.webp"
+  },
+  {
+    "id": "marmerlook-tegelvloer",
+    "type": "foto",
+    "titel": "Marmerlook tegelvloer",
+    "groot": "assets/img/projecten/marmerlook-tegelvloer.webp",
+    "klein": "assets/img/projecten/marmerlook-tegelvloer-klein.webp"
+  },
+  {
+    "id": "badkamer-na-2",
+    "type": "foto",
+    "titel": "Badkamer na",
+    "groot": "assets/img/projecten/badkamer-na-2.webp",
+    "klein": "assets/img/projecten/badkamer-na-2-klein.webp"
+  },
+  {
+    "id": "houtskeletbouw-interieur",
+    "type": "foto",
+    "titel": "Houtskeletbouw interieur",
+    "groot": "assets/img/projecten/houtskeletbouw-interieur.webp",
+    "klein": "assets/img/projecten/houtskeletbouw-interieur-klein.webp"
+  },
+  {
+    "id": "winkelpui-vernieuwd",
+    "type": "foto",
+    "titel": "Winkelpui vernieuwd",
+    "groot": "assets/img/projecten/winkelpui-vernieuwd.webp",
+    "klein": "assets/img/projecten/winkelpui-vernieuwd-klein.webp"
+  },
+  {
+    "id": "kantoorruimte-pvc-vloer",
+    "type": "foto",
+    "titel": "Kantoorruimte PVC vloer",
+    "groot": "assets/img/projecten/kantoorruimte-pvc-vloer.webp",
+    "klein": "assets/img/projecten/kantoorruimte-pvc-vloer-klein.webp"
+  },
+  {
+    "id": "badkamer-inloopdouche",
+    "type": "foto",
+    "titel": "Badkamer inloopdouche",
+    "groot": "assets/img/projecten/badkamer-inloopdouche.webp",
+    "klein": "assets/img/projecten/badkamer-inloopdouche-klein.webp"
+  },
+  {
+    "id": "gietvloer-bedrijfshal-1",
+    "type": "foto",
+    "titel": "Gietvloer bedrijfshal",
+    "groot": "assets/img/projecten/gietvloer-bedrijfshal-1.webp",
+    "klein": "assets/img/projecten/gietvloer-bedrijfshal-1-klein.webp"
+  },
+  {
+    "id": "trap-na",
+    "type": "foto",
+    "titel": "Trap na",
+    "groot": "assets/img/projecten/trap-na.webp",
+    "klein": "assets/img/projecten/trap-na-klein.webp"
+  },
+  {
+    "id": "openslaande-deuren-kozijnen",
+    "type": "foto",
+    "titel": "Openslaande deuren kozijnen",
+    "groot": "assets/img/projecten/openslaande-deuren-kozijnen.webp",
+    "klein": "assets/img/projecten/openslaande-deuren-kozijnen-klein.webp"
+  },
+  {
+    "id": "spuitwerk-wanden",
+    "type": "foto",
+    "titel": "Spuitwerk wanden",
+    "groot": "assets/img/projecten/spuitwerk-wanden.webp",
+    "klein": "assets/img/projecten/spuitwerk-wanden-klein.webp"
+  },
+  {
+    "id": "badkamer-na-1",
+    "type": "foto",
+    "titel": "Badkamer na",
+    "groot": "assets/img/projecten/badkamer-na-1.webp",
+    "klein": "assets/img/projecten/badkamer-na-1-klein.webp"
+  },
+  {
+    "id": "keuken-montage",
+    "type": "foto",
+    "titel": "Keuken montage",
+    "groot": "assets/img/projecten/keuken-montage.webp",
+    "klein": "assets/img/projecten/keuken-montage-klein.webp"
+  },
+  {
+    "id": "tv-wand-sfeerhaard-led",
+    "type": "foto",
+    "titel": "TV-wand sfeerhaard LED",
+    "groot": "assets/img/projecten/tv-wand-sfeerhaard-led.webp",
+    "klein": "assets/img/projecten/tv-wand-sfeerhaard-led-klein.webp"
+  },
+  {
+    "id": "bedrijfsruimte-afgewerkt",
+    "type": "foto",
+    "titel": "Bedrijfsruimte afgewerkt",
+    "groot": "assets/img/projecten/bedrijfsruimte-afgewerkt.webp",
+    "klein": "assets/img/projecten/bedrijfsruimte-afgewerkt-klein.webp"
+  },
+  {
+    "id": "marmerlook-tegelvloer-ramen",
+    "type": "foto",
+    "titel": "Marmerlook tegelvloer ramen",
+    "groot": "assets/img/projecten/marmerlook-tegelvloer-ramen.webp",
+    "klein": "assets/img/projecten/marmerlook-tegelvloer-ramen-klein.webp"
+  },
+  {
+    "id": "houten-spanten-verbouwing",
+    "type": "foto",
+    "titel": "Houten spanten verbouwing",
+    "groot": "assets/img/projecten/houten-spanten-verbouwing.webp",
+    "klein": "assets/img/projecten/houten-spanten-verbouwing-klein.webp"
+  },
+  {
+    "id": "badkamer-ronde-spiegel",
+    "type": "foto",
+    "titel": "Badkamer ronde spiegel",
+    "groot": "assets/img/projecten/badkamer-ronde-spiegel.webp",
+    "klein": "assets/img/projecten/badkamer-ronde-spiegel-klein.webp"
+  },
+  {
+    "id": "renovatie-kantoorruimte",
+    "type": "foto",
+    "titel": "Renovatie kantoorruimte",
+    "groot": "assets/img/projecten/renovatie-kantoorruimte.webp",
+    "klein": "assets/img/projecten/renovatie-kantoorruimte-klein.webp"
+  },
+  {
+    "id": "nieuw-kozijn-gevel",
+    "type": "foto",
+    "titel": "Nieuw kozijn gevel",
+    "groot": "assets/img/projecten/nieuw-kozijn-gevel.webp",
+    "klein": "assets/img/projecten/nieuw-kozijn-gevel-klein.webp"
+  },
+  {
+    "id": "woonkamer-ramen-na",
+    "type": "foto",
+    "titel": "Woonkamer ramen na",
+    "groot": "assets/img/projecten/woonkamer-ramen-na.webp",
+    "klein": "assets/img/projecten/woonkamer-ramen-na-klein.webp"
+  },
+  {
+    "id": "badkamer-na-3",
+    "type": "foto",
+    "titel": "Badkamer na",
+    "groot": "assets/img/projecten/badkamer-na-3.webp",
+    "klein": "assets/img/projecten/badkamer-na-3-klein.webp"
+  },
+  {
+    "id": "gietvloer-bedrijfshal-2",
+    "type": "foto",
+    "titel": "Gietvloer bedrijfshal",
+    "groot": "assets/img/projecten/gietvloer-bedrijfshal-2.webp",
+    "klein": "assets/img/projecten/gietvloer-bedrijfshal-2-klein.webp"
+  },
+  {
+    "id": "houten-kozijnen-gevel",
+    "type": "foto",
+    "titel": "Houten kozijnen gevel",
+    "groot": "assets/img/projecten/houten-kozijnen-gevel.webp",
+    "klein": "assets/img/projecten/houten-kozijnen-gevel-klein.webp"
+  },
+  {
+    "id": "kantoor-accentwand",
+    "type": "foto",
+    "titel": "Kantoor accentwand",
+    "groot": "assets/img/projecten/kantoor-accentwand.webp",
+    "klein": "assets/img/projecten/kantoor-accentwand-klein.webp"
+  },
+  {
+    "id": "tegelwerk-in-uitvoering",
+    "type": "foto",
+    "titel": "Tegelwerk in uitvoering",
+    "groot": "assets/img/projecten/tegelwerk-in-uitvoering.webp",
+    "klein": "assets/img/projecten/tegelwerk-in-uitvoering-klein.webp"
+  },
+  {
+    "id": "systeemplafond-verlichting",
+    "type": "foto",
+    "titel": "Systeemplafond verlichting",
+    "groot": "assets/img/projecten/systeemplafond-verlichting.webp",
+    "klein": "assets/img/projecten/systeemplafond-verlichting-klein.webp"
+  },
+  {
+    "id": "vloerverwarming-aanleg",
+    "type": "foto",
+    "titel": "Vloerverwarming aanleg",
+    "groot": "assets/img/projecten/vloerverwarming-aanleg.webp",
+    "klein": "assets/img/projecten/vloerverwarming-aanleg-klein.webp"
+  },
+  {
+    "id": "houtskeletbouw-ruwbouw",
+    "type": "foto",
+    "titel": "Houtskeletbouw ruwbouw",
+    "groot": "assets/img/projecten/houtskeletbouw-ruwbouw.webp",
+    "klein": "assets/img/projecten/houtskeletbouw-ruwbouw-klein.webp"
+  },
+  {
+    "id": "dakopbouw-steiger",
+    "type": "foto",
+    "titel": "Dakopbouw steiger",
+    "groot": "assets/img/projecten/dakopbouw-steiger.webp",
+    "klein": "assets/img/projecten/dakopbouw-steiger-klein.webp"
+  },
+  {
+    "id": "aanbouw-renovatie-achtergevel",
+    "type": "foto",
+    "titel": "Aanbouw renovatie achtergevel",
+    "groot": "assets/img/projecten/aanbouw-renovatie-achtergevel.webp",
+    "klein": "assets/img/projecten/aanbouw-renovatie-achtergevel-klein.webp"
+  },
+  {
+    "id": "zaagwerk-gevel",
+    "type": "foto",
+    "titel": "Zaagwerk gevel",
+    "groot": "assets/img/projecten/zaagwerk-gevel.webp",
+    "klein": "assets/img/projecten/zaagwerk-gevel-klein.webp"
+  },
+  {
+    "id": "sloopwerk-gevel",
+    "type": "foto",
+    "titel": "Sloopwerk gevel",
+    "groot": "assets/img/projecten/sloopwerk-gevel.webp",
+    "klein": "assets/img/projecten/sloopwerk-gevel-klein.webp"
+  },
+  {
+    "id": "sloopwerk-pui",
+    "type": "foto",
+    "titel": "Sloopwerk pui",
+    "groot": "assets/img/projecten/sloopwerk-pui.webp",
+    "klein": "assets/img/projecten/sloopwerk-pui-klein.webp"
+  },
+  {
+    "id": "kantoor-scheidingswand",
+    "type": "foto",
+    "titel": "Kantoor scheidingswand",
+    "groot": "assets/img/projecten/kantoor-scheidingswand.webp",
+    "klein": "assets/img/projecten/kantoor-scheidingswand-klein.webp"
+  },
+  {
+    "id": "woonkamer-vensterbank",
+    "type": "foto",
+    "titel": "Woonkamer vensterbank",
+    "groot": "assets/img/projecten/woonkamer-vensterbank.webp",
+    "klein": "assets/img/projecten/woonkamer-vensterbank-klein.webp"
+  },
+  {
+    "id": "slaapkamer-afwerking",
+    "type": "foto",
+    "titel": "Slaapkamer afwerking",
+    "groot": "assets/img/projecten/slaapkamer-afwerking.webp",
+    "klein": "assets/img/projecten/slaapkamer-afwerking-klein.webp"
+  },
+  {
+    "id": "slaapkamer-kozijn",
+    "type": "foto",
+    "titel": "Slaapkamer kozijn",
+    "groot": "assets/img/projecten/slaapkamer-kozijn.webp",
+    "klein": "assets/img/projecten/slaapkamer-kozijn-klein.webp"
+  },
+  {
+    "id": "toilet-voorbereiding",
+    "type": "foto",
+    "titel": "Toilet voorbereiding",
+    "groot": "assets/img/projecten/toilet-voorbereiding.webp",
+    "klein": "assets/img/projecten/toilet-voorbereiding-klein.webp"
+  },
+  {
+    "id": "toilet-tegelwerk",
+    "type": "foto",
+    "titel": "Toilet tegelwerk",
+    "groot": "assets/img/projecten/toilet-tegelwerk.webp",
+    "klein": "assets/img/projecten/toilet-tegelwerk-klein.webp"
+  },
+  {
+    "id": "verbouwing-bedrijfsruimte",
+    "type": "foto",
+    "titel": "Verbouwing bedrijfsruimte",
+    "groot": "assets/img/projecten/verbouwing-bedrijfsruimte.webp",
+    "klein": "assets/img/projecten/verbouwing-bedrijfsruimte-klein.webp"
+  },
+  {
+    "id": "bedrijfshal-ruwbouw-1",
+    "type": "foto",
+    "titel": "Bedrijfshal ruwbouw",
+    "groot": "assets/img/projecten/bedrijfshal-ruwbouw-1.webp",
+    "klein": "assets/img/projecten/bedrijfshal-ruwbouw-1-klein.webp"
+  },
+  {
+    "id": "bedrijfshal-ruwbouw-2",
+    "type": "foto",
+    "titel": "Bedrijfshal ruwbouw",
+    "groot": "assets/img/projecten/bedrijfshal-ruwbouw-2.webp",
+    "klein": "assets/img/projecten/bedrijfshal-ruwbouw-2-klein.webp"
+  },
+  {
+    "id": "bedrijfshal-ruwbouw-3",
+    "type": "foto",
+    "titel": "Bedrijfshal ruwbouw",
+    "groot": "assets/img/projecten/bedrijfshal-ruwbouw-3.webp",
+    "klein": "assets/img/projecten/bedrijfshal-ruwbouw-3-klein.webp"
+  },
+  {
+    "id": "gietvloer-bedrijfshal-3",
+    "type": "foto",
+    "titel": "Gietvloer bedrijfshal",
+    "groot": "assets/img/projecten/gietvloer-bedrijfshal-3.webp",
+    "klein": "assets/img/projecten/gietvloer-bedrijfshal-3-klein.webp"
+  },
+  {
+    "id": "materiaal-levering-kraan",
+    "type": "foto",
+    "titel": "Materiaal levering kraan",
+    "groot": "assets/img/projecten/materiaal-levering-kraan.webp",
+    "klein": "assets/img/projecten/materiaal-levering-kraan-klein.webp"
+  }
+]

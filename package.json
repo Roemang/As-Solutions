@@ -1,0 +1,14 @@
+{
+  "name": "as-solutions-website",
+  "version": "1.0.0",
+  "description": "Website voor AS Solutions (timmerwerk, renovatie en tegelwerk) met beheerpagina voor projectfoto's",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
